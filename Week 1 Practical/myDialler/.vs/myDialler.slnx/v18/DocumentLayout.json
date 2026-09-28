@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Year 4\\myDialler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\view\\newpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\view\\newpage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|d:\\year 4\\mydialler\\mydialler\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7A0AA6A-15F7-8E8C-A086-36B2AE501B61}|myDialler\\myDialler.csproj|solutionrelative:mydialler\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\AppShell.xaml",
+              "RelativeDocumentMoniker": "myDialler\\AppShell.xaml",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\AppShell.xaml",
+              "RelativeToolTip": "myDialler\\AppShell.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:52:16.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPage3.xaml.cs",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage3.xaml.cs",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage3.xaml.cs",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage3.xaml.cs",
+              "RelativeToolTip": "myDialler\\View\\NewPage3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:12:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewPage2.xaml.cs",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage2.xaml.cs",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage2.xaml.cs",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage2.xaml.cs",
+              "RelativeToolTip": "myDialler\\View\\NewPage2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:12:01.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage1.xaml.cs",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage1.xaml.cs",
+              "RelativeToolTip": "myDialler\\View\\NewPage1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:04:24.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage1.xaml",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage1.xaml",
+              "RelativeToolTip": "myDialler\\View\\NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:50:45.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewPage2.xaml",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage2.xaml",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage2.xaml",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage2.xaml",
+              "RelativeToolTip": "myDialler\\View\\NewPage2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:50:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewPage3.xaml",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage3.xaml",
+              "RelativeDocumentMoniker": "myDialler\\View\\NewPage3.xaml",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\View\\NewPage3.xaml",
+              "RelativeToolTip": "myDialler\\View\\NewPage3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:50:58.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "myDialler\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\MainPage.xaml.cs",
+              "RelativeToolTip": "myDialler\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:59:26.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Year 4\\myDialler\\myDialler\\MainPage.xaml",
+              "RelativeDocumentMoniker": "myDialler\\MainPage.xaml",
+              "ToolTip": "D:\\Year 4\\myDialler\\myDialler\\MainPage.xaml",
+              "RelativeToolTip": "myDialler\\MainPage.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:44:27.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="myDialler.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:myDialler"
+    xmlns:view="clr-namespace:myDialler.View"
+    Title="myDialler">
+<!--
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+
+-->
+    <TabBar>
+        <Tab Title="Home" Icon="home.png">
+            <ShellContent
+                Title="Home"
+                ContentTemplate="{DataTemplate local:MainPage}"
+                Route="MainPage" 
+                />
+        </Tab>
+
+        <Tab Title="Settings" Icon="settings.png">
+            <ShellContent
+                 Title="Settings"
+                 ContentTemplate="{DataTemplate view:NewPage2}"
+                 Route="Settings" 
+            />
+        </Tab>
+        <Tab Title="About" Icon="about1.png">
+            <ShellContent
+                 Title="About"
+                 ContentTemplate="{DataTemplate view:NewPage3}"
+                 Route="About" 
+             />
+        </Tab>
+    </TabBar>
+    
+    
+</Shell>

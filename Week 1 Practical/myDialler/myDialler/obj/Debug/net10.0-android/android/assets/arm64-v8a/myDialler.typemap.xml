@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="myDialler" mvid="cdd807d68eff404cbcf8dd03490f17eb">
+  <java-to-managed>
+    <entry java-name="crc642ac793046cac7209/MainActivity" managed-name="myDialler.MainActivity, myDialler" managed-type-token-id="33554441" />
+    <entry java-name="crc642ac793046cac7209/MainApplication" managed-name="myDialler.MainApplication, myDialler" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc642ac793046cac7209/MainActivity" managed-name="myDialler.MainActivity, myDialler" managed-type-token-id="33554441" />
+    <entry java-name="crc642ac793046cac7209/MainApplication" managed-name="myDialler.MainApplication, myDialler" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>
