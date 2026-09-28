@@ -3,5 +3,5 @@ Cross Platform Development Module
 
 
 ## Student Info ##
-Name: Ryan Turner /n
+Name: Ryan Turner |   |
 Email: L00183767@atu.ie
